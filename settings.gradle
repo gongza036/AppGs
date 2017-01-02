@@ -1,0 +1,2 @@
+include ':GsApp','library'
+project(":library").projectDir = new File("../SimpleGs/library/")
